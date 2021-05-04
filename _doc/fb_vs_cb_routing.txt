@@ -1,0 +1,15 @@
+- File-based Routing
+  - NextJS
+  - No extra boilerplate code required
+  - Intuitive system
+  - File + folder structure determine
+    the routes
+  - Navigation can be done using Link component
+    or programmatically
+
+- Code-based Routing
+  - React + react-router
+  - boilerplate setup in code required
+  - file + folder setup does not matter
+  - Navigation can be done using Link component
+    or programmatically

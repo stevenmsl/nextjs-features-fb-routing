@@ -1,0 +1,9 @@
+- Named/Static Route
+- Nested Paths and Routes
+- Dynamic Paths and Routes
+- Extract dynamic path segment data
+- build nested dynamic routes and paths
+- catch-all routes
+- navigation
+  - Link
+  - programmatically
